@@ -19,12 +19,12 @@ If you find this code helpful, please kindly cite:
 @ARTICLE{10745532,
   author={Qu, Jiahui and Zhang, Lijian and Dong, Wenqian and Li, Nan and Li, Yunsong},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Shared-Private Decoupling-Based Multilevel Feature Alignment Semi-Supervised Learning for HSI and LiDAR Classification}, 
+  title={Shared-Private Decoupling-Based Multilevel Feature Alignment Semisupervised Learning for HSI and LiDAR Classification}, 
   year={2024},
-  volume={},
+  volume={62},
   number={},
-  pages={1-1},
-  keywords={Transformers;Laser radar;Adaptation models;Semantics;Data models;Semisupervised learning;Predictive models;Training;Fuses;Feature extraction;Hyperspectral image (HSI);light detection and ranging (LiDAR) data;image classification;semi-supervised;domain adaptation;active learning},
+  pages={1-14},
+  keywords={Transformers;Laser radar;Adaptation models;Semantics;Data models;Semisupervised learning;Predictive models;Training;Fuses;Feature extraction;Active learning;domain adaptation (DA);hyperspectral image (HSI);image classification;light detection and ranging (LiDAR) data;semisupervised},
   doi={10.1109/TGRS.2024.3492499}}
 
 ```
